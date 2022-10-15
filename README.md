@@ -6,7 +6,7 @@ Finalment, cal tenir en compte que en el clustering normalment s'aplica el Princ
 
 Objectius generals
     
-   Aplicar correctament els algoritmes d'aprenentatge NO-supervisat d'Agrupació.
+    Aplicar correctament els algoritmes d'aprenentatge NO-supervisat d'Agrupació.
     
 
 Objectius específics
